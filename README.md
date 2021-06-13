@@ -1,4 +1,4 @@
-My HTML practice codes from my attempt to create a series of STEM websites during the year 2009-10. The webisted were originally created and hosted using [Microsoft Office Live](https://en.wikipedia.org/wiki/Microsoft_Office_Live). 
+My HTML practice codes from my attempt to create a series of STEM websites during the year 2009-10. The websites were originally created and hosted using [Microsoft Office Live](https://en.wikipedia.org/wiki/Microsoft_Office_Live). 
 
 Some left over screen shots (click on them to see my first and the last attempt of using YouTube):
 
